@@ -36,4 +36,4 @@ def rotate_image(image_path, angle, output_path):
     cv2.imwrite(output_path, rotated)
 
 # Example
-rotate_image("pic17.png", 10, "rotated10.jpg")
+rotate_image("pic17.png", 1, "rotated1.jpg")
